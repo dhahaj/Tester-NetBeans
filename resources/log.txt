@@ -1,0 +1,2395 @@
+May 9, 2013 6:30:19 AM tester_project_e3 setup
+INFO: Program started
+May 9, 2013 6:35:41 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21174(000052B6)
+May 9, 2013 6:37:14 AM tester_project_e3$3 run
+INFO: 
+User BTA closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 1
+	*
+May 9, 2013 6:43:15 AM tester_project_e3 setup
+INFO: Program started
+May 9, 2013 6:46:05 AM tester_project_e3 setup
+INFO: Program started
+May 9, 2013 6:49:26 AM tester_project_e3$3 run
+INFO: 
+User BTA closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+May 9, 2013 6:54:57 AM tester_project_e3 setup
+INFO: Program started
+May 9, 2013 6:55:44 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 6:55:57 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 6:56:09 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 6:56:22 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21175(000052B7)
+May 9, 2013 6:56:36 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 6:57:09 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21176(000052B8)
+May 9, 2013 6:57:33 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 6:57:56 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21177(000052B9)
+May 9, 2013 6:58:20 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 6:58:43 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21178(000052BA)
+May 9, 2013 6:59:05 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 6:59:31 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21179(000052BB)
+May 9, 2013 6:59:46 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:00:18 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21180(000052BC)
+May 9, 2013 7:00:41 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:01:06 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21181(000052BD)
+May 9, 2013 7:01:29 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:02:28 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21182(000052BE)
+May 9, 2013 7:02:51 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:03:16 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21183(000052BF)
+May 9, 2013 7:03:38 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:04:00 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21184(000052C0)
+May 9, 2013 7:04:21 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:04:45 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21185(000052C1)
+May 9, 2013 7:05:01 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:05:25 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21186(000052C2)
+May 9, 2013 7:05:45 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:06:14 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21187(000052C3)
+May 9, 2013 7:06:44 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:07:12 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21188(000052C4)
+May 9, 2013 7:08:03 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:08:33 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21189(000052C5)
+May 9, 2013 7:08:52 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:09:22 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21190(000052C6)
+May 9, 2013 7:10:06 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:10:21 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21191(000052C7)
+May 9, 2013 7:11:18 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:11:33 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21192(000052C8)
+May 9, 2013 7:12:03 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:13:01 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:13:14 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21193(000052C9)
+May 9, 2013 7:14:13 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:14:43 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21194(000052CA)
+May 9, 2013 7:15:16 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:15:46 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21195(000052CB)
+May 9, 2013 7:16:47 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:17:24 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21196(000052CC)
+May 9, 2013 7:18:21 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:18:51 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21197(000052CD)
+May 9, 2013 7:19:35 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:20:07 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21198(000052CE)
+May 9, 2013 7:20:37 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:21:06 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21199(000052CF)
+May 9, 2013 7:21:36 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:22:52 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:23:07 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21200(000052D0)
+May 9, 2013 7:23:27 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:24:15 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21201(000052D1)
+May 9, 2013 7:24:37 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:25:06 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21202(000052D2)
+May 9, 2013 7:25:24 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:25:57 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21203(000052D3)
+May 9, 2013 7:26:19 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:26:48 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21204(000052D4)
+May 9, 2013 7:27:10 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:27:35 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21205(000052D5)
+May 9, 2013 7:27:58 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:28:25 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21206(000052D6)
+May 9, 2013 7:28:45 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:29:28 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21207(000052D7)
+May 9, 2013 7:29:49 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:32:20 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21208(000052D8)
+May 9, 2013 7:32:56 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:33:19 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21209(000052D9)
+May 9, 2013 7:33:39 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:34:03 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21210(000052DA)
+May 9, 2013 7:34:21 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:34:53 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21211(000052DB)
+May 9, 2013 7:35:11 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:35:37 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21212(000052DC)
+May 9, 2013 7:37:21 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:37:45 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21213(000052DD)
+May 9, 2013 7:38:16 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:38:40 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21214(000052DE)
+May 9, 2013 7:39:13 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:39:26 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21215(000052DF)
+May 9, 2013 7:39:43 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:40:08 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21216(000052E0)
+May 9, 2013 7:40:24 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:40:50 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21217(000052E1)
+May 9, 2013 7:41:08 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:41:33 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21218(000052E2)
+May 9, 2013 7:41:53 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:42:19 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21219(000052E3)
+May 9, 2013 7:42:42 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:43:10 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21220(000052E4)
+May 9, 2013 7:43:35 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:43:59 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21221(000052E5)
+May 9, 2013 7:44:21 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:44:43 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21222(000052E6)
+May 9, 2013 7:45:03 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:45:33 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21223(000052E7)
+May 9, 2013 7:45:44 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:49:09 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21224(000052E8)
+May 9, 2013 7:49:28 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:49:49 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21225(000052E9)
+May 9, 2013 7:50:07 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:50:31 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21226(000052EA)
+May 9, 2013 7:50:50 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:51:12 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21227(000052EB)
+May 9, 2013 7:51:31 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:51:54 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21228(000052EC)
+May 9, 2013 7:52:12 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:39:01 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21229(000052ED)
+May 9, 2013 7:39:25 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:39:51 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21230(000052EE)
+May 9, 2013 7:40:14 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:40:37 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21231(000052EF)
+May 9, 2013 7:41:03 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:41:42 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:42:04 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21232(000052F0)
+May 9, 2013 7:42:32 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:45:19 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21233(000052F1)
+May 9, 2013 7:45:33 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:45:56 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21234(000052F2)
+May 9, 2013 7:46:23 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:46:44 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21235(000052F3)
+May 9, 2013 7:47:03 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:47:33 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21236(000052F4)
+May 9, 2013 7:47:55 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:48:24 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21237(000052F5)
+May 9, 2013 7:48:41 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:48:52 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21238(000052F6)
+May 9, 2013 7:49:15 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:49:40 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21239(000052F7)
+May 9, 2013 7:50:01 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:50:26 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21240(000052F8)
+May 9, 2013 7:50:45 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:51:09 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21241(000052F9)
+May 9, 2013 7:56:37 AM tester_project_e3 setup
+INFO: Program started
+May 9, 2013 7:57:31 AM tester_project_e3 setup
+INFO: Program started
+May 9, 2013 7:59:02 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21242(000052FA)
+May 9, 2013 7:59:28 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 7:59:51 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21243(000052FB)
+May 9, 2013 8:00:14 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:00:44 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21244(000052FC)
+May 9, 2013 8:01:03 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:01:28 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21245(000052FD)
+May 9, 2013 8:01:51 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:02:13 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21246(000052FE)
+May 9, 2013 8:02:34 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:02:59 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21247(000052FF)
+May 9, 2013 8:03:38 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:03:58 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, Current Programming Task Failed
+May 9, 2013 8:04:17 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21248(00005300)
+May 9, 2013 8:04:31 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:04:54 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21249(00005301)
+May 9, 2013 8:05:16 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:05:40 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21250(00005302)
+May 9, 2013 8:05:59 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:06:23 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21251(00005303)
+May 9, 2013 8:09:41 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:09:54 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21252(00005304)
+May 9, 2013 8:10:14 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:10:40 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21253(00005305)
+May 9, 2013 8:10:58 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:11:12 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21254(00005306)
+May 9, 2013 8:11:26 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:11:44 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21255(00005307)
+May 9, 2013 8:12:01 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:12:31 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21256(00005308)
+May 9, 2013 8:12:55 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:13:30 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21257(00005309)
+May 9, 2013 8:13:53 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:14:54 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21258(0000530A)
+May 9, 2013 8:15:13 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:15:37 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21259(0000530B)
+May 9, 2013 8:16:05 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:16:32 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21260(0000530C)
+May 9, 2013 8:16:50 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:17:16 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21261(0000530D)
+May 9, 2013 8:17:48 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:24:15 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21262(0000530E)
+May 9, 2013 8:24:35 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:25:04 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21263(0000530F)
+May 9, 2013 8:25:40 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:29:07 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21264(00005310)
+May 9, 2013 8:29:27 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:30:13 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21265(00005311)
+May 9, 2013 8:30:36 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:31:00 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21266(00005312)
+May 9, 2013 8:31:24 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:31:51 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21267(00005313)
+May 9, 2013 8:32:12 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:32:34 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21268(00005314)
+May 9, 2013 8:32:54 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:33:17 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21269(00005315)
+May 9, 2013 8:33:38 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:34:04 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21270(00005316)
+May 9, 2013 8:34:39 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:35:02 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21271(00005317)
+May 9, 2013 8:35:19 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:35:48 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21272(00005318)
+May 9, 2013 8:36:48 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:37:27 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21273(00005319)
+May 9, 2013 8:37:42 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:38:20 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21274(0000531A)
+May 9, 2013 8:38:45 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:39:11 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21275(0000531B)
+May 9, 2013 8:39:47 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:40:12 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21276(0000531C)
+May 9, 2013 8:40:48 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:41:05 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21277(0000531D)
+May 9, 2013 8:41:43 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:42:14 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21278(0000531E)
+May 9, 2013 8:42:36 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:43:00 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21279(0000531F)
+May 9, 2013 8:43:20 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:43:45 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21280(00005320)
+May 9, 2013 8:44:12 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:44:38 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21281(00005321)
+May 9, 2013 8:45:09 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:45:21 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21282(00005322)
+May 9, 2013 8:46:16 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:48:07 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21283(00005323)
+May 9, 2013 8:48:20 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:48:43 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21284(00005324)
+May 9, 2013 8:49:00 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:49:29 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21285(00005325)
+May 9, 2013 8:49:51 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:50:15 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21286(00005326)
+May 9, 2013 8:50:33 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:42:17 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21287(00005327)
+May 9, 2013 8:42:37 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:43:05 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21288(00005328)
+May 9, 2013 8:43:23 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:43:54 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21289(00005329)
+May 9, 2013 8:44:14 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:44:44 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21290(0000532A)
+May 9, 2013 8:45:11 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:45:36 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21291(0000532B)
+May 9, 2013 8:46:02 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:46:34 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21292(0000532C)
+May 9, 2013 8:46:51 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:47:05 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21293(0000532D)
+May 9, 2013 8:47:30 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:47:44 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21294(0000532E)
+May 9, 2013 8:48:10 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:48:22 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21295(0000532F)
+May 9, 2013 8:48:39 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:48:53 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21296(00005330)
+May 9, 2013 8:49:31 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:49:55 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21297(00005331)
+May 9, 2013 8:50:16 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:50:28 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21298(00005332)
+May 9, 2013 8:50:47 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:50:59 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21299(00005333)
+May 9, 2013 8:51:33 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:51:44 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21300(00005334)
+May 9, 2013 8:52:19 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:52:43 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21301(00005335)
+May 9, 2013 8:53:34 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:53:54 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:54:14 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:54:47 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:55:47 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:56:15 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21302(00005336)
+May 9, 2013 8:56:34 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 8:57:00 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21303(00005337)
+May 9, 2013 8:57:23 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:02:41 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21304(00005338)
+May 9, 2013 9:03:08 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:03:40 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21305(00005339)
+May 9, 2013 9:03:58 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:04:24 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21306(0000533A)
+May 9, 2013 9:04:44 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:05:20 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21307(0000533B)
+May 9, 2013 9:05:40 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:06:05 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21308(0000533C)
+May 9, 2013 9:06:25 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:06:48 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21309(0000533D)
+May 9, 2013 9:07:15 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:07:41 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21310(0000533E)
+May 9, 2013 9:08:00 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:16:13 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21311(0000533F)
+May 9, 2013 9:18:28 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:21:52 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21312(00005340)
+May 9, 2013 9:22:39 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:23:05 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21313(00005341)
+May 9, 2013 9:23:40 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:24:00 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21314(00005342)
+May 9, 2013 9:24:19 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:24:55 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21315(00005343)
+May 9, 2013 9:25:13 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:25:41 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21316(00005344)
+May 9, 2013 9:26:11 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:26:36 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21317(00005345)
+May 9, 2013 9:26:59 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:27:27 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21318(00005346)
+May 9, 2013 9:27:57 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:28:22 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21319(00005347)
+May 9, 2013 9:28:40 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:29:08 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21320(00005348)
+May 9, 2013 9:29:25 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:29:50 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21321(00005349)
+May 9, 2013 9:30:19 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:30:42 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21322(0000534A)
+May 9, 2013 9:31:22 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:31:45 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21323(0000534B)
+May 9, 2013 9:32:06 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:32:32 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21324(0000534C)
+May 9, 2013 9:32:50 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:33:15 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21325(0000534D)
+May 9, 2013 9:33:32 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:33:56 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21326(0000534E)
+May 9, 2013 9:34:22 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:34:49 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21327(0000534F)
+May 9, 2013 9:35:11 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:35:36 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21328(00005350)
+May 9, 2013 9:36:08 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:36:29 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21329(00005351)
+May 9, 2013 9:36:51 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:37:16 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21330(00005352)
+May 9, 2013 9:37:38 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:38:00 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21331(00005353)
+May 9, 2013 9:38:25 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:27:56 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21332(00005354)
+May 9, 2013 9:28:20 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:28:41 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21333(00005355)
+May 9, 2013 9:29:09 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:29:32 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21334(00005356)
+May 9, 2013 9:29:46 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:30:09 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21335(00005357)
+May 9, 2013 9:30:29 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:30:56 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21336(00005358)
+May 9, 2013 9:31:15 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:31:37 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21337(00005359)
+May 9, 2013 9:32:07 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:32:38 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21338(0000535A)
+May 9, 2013 9:32:59 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:33:23 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21339(0000535B)
+May 9, 2013 9:33:42 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:34:07 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21340(0000535C)
+May 9, 2013 9:34:28 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:34:57 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21341(0000535D)
+May 9, 2013 9:35:19 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:35:42 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21342(0000535E)
+May 9, 2013 9:36:01 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:36:24 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21343(0000535F)
+May 9, 2013 9:36:46 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:37:08 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21344(00005360)
+May 9, 2013 9:37:28 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:37:55 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21345(00005361)
+May 9, 2013 9:38:26 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:38:49 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21346(00005362)
+May 9, 2013 9:39:12 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:39:34 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21347(00005363)
+May 9, 2013 9:39:56 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:40:21 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21348(00005364)
+May 9, 2013 9:40:46 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:41:09 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21349(00005365)
+May 9, 2013 9:41:30 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:41:54 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21350(00005366)
+May 9, 2013 9:42:12 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:42:39 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21351(00005367)
+May 9, 2013 9:43:02 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:43:25 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21352(00005368)
+May 9, 2013 9:43:50 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:44:15 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21353(00005369)
+May 9, 2013 9:44:37 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:44:52 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:45:27 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21354(0000536A)
+May 9, 2013 9:45:47 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:53:46 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21355(0000536B)
+May 9, 2013 9:54:23 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:54:49 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21356(0000536C)
+May 9, 2013 9:55:24 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:56:14 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21357(0000536D)
+May 9, 2013 9:56:30 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:56:54 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21358(0000536E)
+May 9, 2013 9:57:16 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:58:45 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21359(0000536F)
+May 9, 2013 9:58:57 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 9:59:24 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21360(00005370)
+May 9, 2013 9:59:40 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:00:02 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21361(00005371)
+May 9, 2013 10:00:26 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:00:46 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21362(00005372)
+May 9, 2013 10:01:16 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:01:37 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21363(00005373)
+May 9, 2013 10:01:55 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:02:17 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21364(00005374)
+May 9, 2013 10:02:42 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:05:25 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21365(00005375)
+May 9, 2013 10:05:36 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:05:58 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21366(00005376)
+May 9, 2013 10:06:16 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:06:43 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21367(00005377)
+May 9, 2013 10:07:10 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:07:33 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21368(00005378)
+May 9, 2013 10:25:05 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:25:29 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21369(00005379)
+May 9, 2013 10:25:45 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:26:30 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21370(0000537A)
+May 9, 2013 10:27:16 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:27:45 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21371(0000537B)
+May 9, 2013 10:14:17 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:14:42 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21372(0000537C)
+May 9, 2013 10:15:04 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:15:28 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21373(0000537D)
+May 9, 2013 10:19:41 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:20:09 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21374(0000537E)
+May 9, 2013 10:20:31 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:20:57 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21375(0000537F)
+May 9, 2013 10:21:17 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:21:39 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21376(00005380)
+May 9, 2013 10:22:00 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:22:27 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21377(00005381)
+May 9, 2013 10:22:58 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:23:38 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, Current Programming Task Failed
+May 9, 2013 10:23:54 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21378(00005382)
+May 9, 2013 10:24:19 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:24:35 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:24:55 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21379(00005383)
+May 9, 2013 10:25:20 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:27:03 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:27:26 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21380(00005384)
+May 9, 2013 10:27:50 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:28:18 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21381(00005385)
+May 9, 2013 10:28:38 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:28:58 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21382(00005386)
+May 9, 2013 10:29:16 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:29:37 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21383(00005387)
+May 9, 2013 10:29:55 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:30:15 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21384(00005388)
+May 9, 2013 10:30:41 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:31:06 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21385(00005389)
+May 9, 2013 10:31:33 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:31:54 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21386(0000538A)
+May 9, 2013 10:32:12 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:32:34 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21387(0000538B)
+May 9, 2013 10:32:58 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:33:22 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21388(0000538C)
+May 9, 2013 10:33:49 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:34:10 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21389(0000538D)
+May 9, 2013 10:34:42 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:35:00 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:35:22 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21390(0000538E)
+May 9, 2013 10:35:50 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:36:12 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21391(0000538F)
+May 9, 2013 10:36:40 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:37:05 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21392(00005390)
+May 9, 2013 10:37:37 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:38:08 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 10:39:10 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:40:02 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:40:26 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 10:40:44 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:41:00 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 10:41:12 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 10:41:58 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 10:43:29 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 10:43:58 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 10:44:41 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 10:45:15 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 10:45:41 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 10:45:54 AM LoginThread logout
+INFO: 
+User BTA logged off
+	*devices passed: 149
+	*devices failed: 8
+	*total devices tested: 157
+	*devices programmed: 151
+	*
+May 9, 2013 10:46:25 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 10:46:42 AM tester_project_e3$3 run
+INFO: 
+User BTA closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+May 9, 2013 10:47:47 AM tester_project_e3 setup
+INFO: Program started
+May 9, 2013 10:48:19 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21393(00005391)
+May 9, 2013 10:48:42 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:48:58 AM tester_project_e3$4 run
+WARNING: Error programming EAX500, Current Programming Task Failed
+May 9, 2013 10:49:12 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21394(00005392)
+May 9, 2013 10:49:37 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:50:07 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21395(00005393)
+May 9, 2013 10:50:25 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:51:54 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21396(00005394)
+May 9, 2013 10:52:31 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:52:58 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21397(00005395)
+May 9, 2013 10:53:23 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:53:48 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21398(00005396)
+May 9, 2013 10:54:15 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:54:41 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21399(00005397)
+May 9, 2013 10:55:17 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:55:58 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21400(00005398)
+May 9, 2013 10:56:24 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:57:01 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21401(00005399)
+May 9, 2013 10:57:27 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:58:00 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21402(0000539A)
+May 9, 2013 10:58:33 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:58:58 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21403(0000539B)
+May 9, 2013 10:59:17 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 10:59:43 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21404(0000539C)
+May 9, 2013 11:00:04 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:00:34 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21405(0000539D)
+May 9, 2013 11:01:00 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:01:23 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21406(0000539E)
+May 9, 2013 11:01:57 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:05:09 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21407(0000539F)
+May 9, 2013 11:05:43 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:05:57 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21408(000053A0)
+May 9, 2013 11:06:10 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:06:34 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21409(000053A1)
+May 9, 2013 11:07:00 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:07:15 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:07:39 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21410(000053A2)
+May 9, 2013 11:08:01 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:08:29 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21411(000053A3)
+May 9, 2013 11:08:55 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:09:21 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21412(000053A4)
+May 9, 2013 11:09:53 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:10:26 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21413(000053A5)
+May 9, 2013 11:10:52 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:11:15 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21414(000053A6)
+May 9, 2013 11:11:32 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:11:55 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21415(000053A7)
+May 9, 2013 11:12:19 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:12:41 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21416(000053A8)
+May 9, 2013 11:12:59 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:01:35 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:04:36 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21417(000053A9)
+May 9, 2013 11:04:58 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:05:26 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21418(000053AA)
+May 9, 2013 11:05:46 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:06:11 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21419(000053AB)
+May 9, 2013 11:06:36 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:07:15 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21420(000053AC)
+May 9, 2013 11:07:42 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:08:08 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21421(000053AD)
+May 9, 2013 11:08:31 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:09:18 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21422(000053AE)
+May 9, 2013 11:09:48 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:10:10 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21423(000053AF)
+May 9, 2013 11:10:35 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:10:58 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21424(000053B0)
+May 9, 2013 11:11:20 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:11:44 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21425(000053B1)
+May 9, 2013 11:12:18 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:12:42 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21426(000053B2)
+May 9, 2013 11:13:01 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:13:24 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21427(000053B3)
+May 9, 2013 11:13:57 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:14:25 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21428(000053B4)
+May 9, 2013 11:14:43 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:15:06 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21429(000053B5)
+May 9, 2013 11:15:29 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:18:25 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21430(000053B6)
+May 9, 2013 11:18:38 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:18:59 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21431(000053B7)
+May 9, 2013 11:19:38 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:19:59 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21432(000053B8)
+May 9, 2013 11:20:18 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:20:41 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21433(000053B9)
+May 9, 2013 11:21:11 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:21:35 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21434(000053BA)
+May 9, 2013 11:21:56 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:22:25 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21435(000053BB)
+May 9, 2013 11:22:47 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:23:11 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21436(000053BC)
+May 9, 2013 11:23:39 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:24:05 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21437(000053BD)
+May 9, 2013 11:24:32 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:24:43 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21438(000053BE)
+May 9, 2013 11:25:32 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:25:43 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21439(000053BF)
+May 9, 2013 11:26:03 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:26:53 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21440(000053C0)
+May 9, 2013 11:27:19 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:27:45 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21441(000053C1)
+May 9, 2013 11:28:06 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:28:31 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21442(000053C2)
+May 9, 2013 11:29:03 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:29:27 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21443(000053C3)
+May 9, 2013 11:29:50 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:30:29 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21444(000053C4)
+May 9, 2013 11:31:01 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:31:38 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21445(000053C5)
+May 9, 2013 11:31:57 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:34:54 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21446(000053C6)
+May 9, 2013 11:35:13 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:35:37 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21447(000053C7)
+May 9, 2013 11:36:10 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:36:36 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21448(000053C8)
+May 9, 2013 11:36:50 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:37:12 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21449(000053C9)
+May 9, 2013 11:37:41 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:38:04 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21450(000053CA)
+May 9, 2013 11:38:22 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:38:44 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21451(000053CB)
+May 9, 2013 11:39:11 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:54:47 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21452(000053CC)
+May 9, 2013 11:55:09 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:55:35 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21453(000053CD)
+May 9, 2013 11:55:55 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:56:20 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21454(000053CE)
+May 9, 2013 11:56:43 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:57:05 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21455(000053CF)
+May 9, 2013 11:57:42 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:58:07 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21456(000053D0)
+May 9, 2013 11:58:32 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:59:19 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:59:43 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21457(000053D1)
+May 9, 2013 12:00:08 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:00:30 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21458(000053D2)
+May 9, 2013 11:46:29 AM LoginThread logout
+INFO: 
+User BTA logged off
+	*devices passed: 66
+	*devices failed: 0
+	*total devices tested: 66
+	*devices programmed: 66
+	*
+May 9, 2013 11:47:18 AM tester_project_e3$3 run
+INFO: 
+User BTA closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+May 9, 2013 11:47:25 AM tester_project_e3 setup
+INFO: Program started
+May 9, 2013 11:48:33 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21459(000053D3)
+May 9, 2013 11:48:53 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:49:15 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21460(000053D4)
+May 9, 2013 11:49:35 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:49:54 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21461(000053D5)
+May 9, 2013 11:50:16 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:50:39 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21462(000053D6)
+May 9, 2013 11:51:02 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:51:17 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:51:37 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21463(000053D7)
+May 9, 2013 11:51:57 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:52:32 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:53:16 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:53:55 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21464(000053D8)
+May 9, 2013 11:54:15 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:54:38 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21465(000053D9)
+May 9, 2013 11:54:59 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:55:22 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21466(000053DA)
+May 9, 2013 11:55:40 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:56:03 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21467(000053DB)
+May 9, 2013 11:56:35 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:57:03 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21468(000053DC)
+May 9, 2013 11:57:29 AM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 11:58:10 AM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21469(000053DD)
+May 9, 2013 12:00:05 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:00:34 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21470(000053DE)
+May 9, 2013 12:00:52 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:01:27 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21471(000053DF)
+May 9, 2013 12:01:54 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:02:16 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21472(000053E0)
+May 9, 2013 12:02:40 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:32:42 PM LoginThread$1 actionPerformed
+INFO: 
+User BTA auto-tester_project_d4.log off	
+May 9, 2013 12:32:42 PM LoginThread logout
+INFO: 
+User BTA logged off
+	*devices passed: 17
+	*devices failed: 0
+	*total devices tested: 17
+	*devices programmed: 14
+	*
+May 9, 2013 12:31:56 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21473(000053E1)
+May 9, 2013 12:32:12 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:32:50 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21474(000053E2)
+May 9, 2013 12:33:05 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:33:34 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21475(000053E3)
+May 9, 2013 12:34:11 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:34:50 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:35:20 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21476(000053E4)
+May 9, 2013 12:35:40 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:37:01 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21477(000053E5)
+May 9, 2013 12:37:29 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:37:54 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21478(000053E6)
+May 9, 2013 12:38:24 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:39:37 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:39:57 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:40:13 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21479(000053E7)
+May 9, 2013 12:40:21 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21480(000053E8)
+May 9, 2013 12:40:40 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:41:07 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21481(000053E9)
+May 9, 2013 12:41:26 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:42:10 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21482(000053EA)
+May 9, 2013 12:42:44 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:43:10 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21483(000053EB)
+May 9, 2013 12:43:30 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:44:00 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21484(000053EC)
+May 9, 2013 12:44:18 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:44:51 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21485(000053ED)
+May 9, 2013 12:45:13 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:45:39 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21486(000053EE)
+May 9, 2013 12:46:09 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:50:26 PM tester_project_e3$4 run
+WARNING: Error programming EAX500, Current Programming Task Failed
+May 9, 2013 12:50:43 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21487(000053EF)
+May 9, 2013 12:50:59 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:51:19 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21488(000053F0)
+May 9, 2013 12:52:07 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:52:20 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21489(000053F1)
+May 9, 2013 12:52:45 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:53:18 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21490(000053F2)
+May 9, 2013 12:53:32 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:53:56 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21491(000053F3)
+May 9, 2013 12:54:23 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:54:47 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21492(000053F4)
+May 9, 2013 12:55:12 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:55:35 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21493(000053F5)
+May 9, 2013 12:56:11 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:56:33 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21494(000053F6)
+May 9, 2013 12:56:52 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:57:14 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21495(000053F7)
+May 9, 2013 12:57:37 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:58:02 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21496(000053F8)
+May 9, 2013 12:58:22 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:58:51 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 12:59:19 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21497(000053F9)
+May 9, 2013 12:59:37 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:00:06 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21498(000053FA)
+May 9, 2013 1:00:28 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:00:59 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21499(000053FB)
+May 9, 2013 1:01:24 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:01:53 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21500(000053FC)
+May 9, 2013 1:02:07 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:02:33 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21501(000053FD)
+May 9, 2013 1:02:53 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:03:16 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21502(000053FE)
+May 9, 2013 1:03:35 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:05:39 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21503(000053FF)
+May 9, 2013 1:05:52 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:06:15 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21504(00005400)
+May 9, 2013 1:06:42 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:07:06 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21505(00005401)
+May 9, 2013 1:07:31 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:07:58 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21506(00005402)
+May 9, 2013 1:08:16 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:08:37 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21507(00005403)
+May 9, 2013 1:08:59 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:09:20 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21508(00005404)
+May 9, 2013 1:09:40 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:10:03 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21509(00005405)
+May 9, 2013 1:10:22 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:10:48 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21510(00005406)
+May 9, 2013 1:11:06 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:11:29 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21511(00005407)
+May 9, 2013 1:11:55 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:14:20 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21512(00005408)
+May 9, 2013 1:15:02 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:15:46 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21513(00005409)
+May 9, 2013 1:16:10 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:16:41 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21514(0000540A)
+May 9, 2013 1:17:04 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:17:38 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21515(0000540B)
+May 9, 2013 1:18:01 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:18:26 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21516(0000540C)
+May 9, 2013 1:18:46 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:19:04 PM tester_project_e3$4 run
+WARNING: Error programming EAX500, Current Programming Task Failed
+May 9, 2013 1:19:12 PM tester_project_e3$4 run
+WARNING: Error programming EAX500, Current Programming Task Failed
+May 9, 2013 1:19:24 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21517(0000540D)
+May 9, 2013 1:19:47 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:20:11 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21518(0000540E)
+May 9, 2013 1:20:32 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:20:54 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21519(0000540F)
+May 9, 2013 1:21:14 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:21:39 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21520(00005410)
+May 9, 2013 1:22:00 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:22:22 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21521(00005411)
+May 9, 2013 1:22:42 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:24:36 PM tester_project_e3$4 run
+WARNING: Error programming EAX500, Current Programming Task Failed
+May 9, 2013 1:24:50 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21522(00005412)
+May 9, 2013 1:25:01 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:25:26 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21523(00005413)
+May 9, 2013 1:25:56 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:26:20 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21524(00005414)
+May 9, 2013 1:26:39 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:27:11 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21525(00005415)
+May 9, 2013 1:27:49 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:28:24 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21526(00005416)
+May 9, 2013 1:28:44 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:29:03 PM tester_project_e3$4 run
+WARNING: Error programming EAX500, Current Programming Task Failed
+May 9, 2013 1:29:17 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21527(00005417)
+May 9, 2013 1:29:37 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:30:00 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21528(00005418)
+May 9, 2013 1:30:20 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:30:42 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21529(00005419)
+May 9, 2013 1:19:02 PM tester_project_e3$3 run
+INFO: 
+User BTA closed software
+	*devices passed: 57
+	*devices failed: 1
+	*total devices tested: 58
+	*devices programmed: 57
+	*
+May 9, 2013 1:19:08 PM tester_project_e3 setup
+INFO: Program started
+May 9, 2013 1:19:50 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21530(0000541A)
+May 9, 2013 1:20:14 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:22:14 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21531(0000541B)
+May 9, 2013 1:22:28 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:22:51 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21532(0000541C)
+May 9, 2013 1:23:18 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:23:45 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21533(0000541D)
+May 9, 2013 1:24:05 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:24:34 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21534(0000541E)
+May 9, 2013 1:24:59 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:25:20 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21535(0000541F)
+May 9, 2013 1:25:39 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:26:05 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21536(00005420)
+May 9, 2013 1:26:25 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:26:47 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21537(00005421)
+May 9, 2013 1:27:04 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:28:04 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:28:18 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21538(00005422)
+May 9, 2013 1:28:39 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:29:03 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21539(00005423)
+May 9, 2013 1:29:28 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:29:40 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21540(00005424)
+May 9, 2013 1:29:59 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:35:58 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21541(00005425)
+May 9, 2013 1:36:14 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:36:38 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21542(00005426)
+May 9, 2013 1:37:00 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:37:39 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:47:04 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:47:18 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21543(00005427)
+May 9, 2013 1:47:36 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:48:06 PM tester_project_e3$4 run
+WARNING: Error programming EAX500, Current Programming Task Failed
+May 9, 2013 1:48:20 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21544(00005428)
+May 9, 2013 1:48:43 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:49:08 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21545(00005429)
+May 9, 2013 1:49:38 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:50:00 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21546(0000542A)
+May 9, 2013 1:50:19 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:50:41 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21547(0000542B)
+May 9, 2013 1:51:00 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:51:28 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21548(0000542C)
+May 9, 2013 1:51:48 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:52:11 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21549(0000542D)
+May 9, 2013 1:52:35 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:53:01 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:53:20 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21550(0000542E)
+May 9, 2013 1:53:48 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:54:08 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21551(0000542F)
+May 9, 2013 1:54:29 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:54:49 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21552(00005430)
+May 9, 2013 1:55:08 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:55:29 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21553(00005431)
+May 9, 2013 1:55:50 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:56:11 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21554(00005432)
+May 9, 2013 1:56:30 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 1:56:54 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21555(00005433)
+May 9, 2013 1:57:14 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:00:50 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21556(00005434)
+May 9, 2013 2:01:02 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:01:29 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21557(00005435)
+May 9, 2013 2:01:56 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:02:19 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21558(00005436)
+May 9, 2013 2:02:35 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:03:19 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21559(00005437)
+May 9, 2013 2:03:39 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:03:59 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21560(00005438)
+May 9, 2013 2:04:22 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:04:42 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21561(00005439)
+May 9, 2013 2:05:14 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:05:35 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21562(0000543A)
+May 9, 2013 2:06:05 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:06:32 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21563(0000543B)
+May 9, 2013 2:07:05 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:07:24 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21564(0000543C)
+May 9, 2013 2:07:40 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:07:59 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21565(0000543D)
+May 9, 2013 2:08:24 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:08:47 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21566(0000543E)
+May 9, 2013 2:09:05 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:09:29 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21567(0000543F)
+May 9, 2013 2:09:55 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:10:16 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21568(00005440)
+May 9, 2013 2:10:37 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:11:02 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21569(00005441)
+May 9, 2013 2:11:24 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:11:52 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21570(00005442)
+May 9, 2013 2:12:12 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:12:33 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21571(00005443)
+May 9, 2013 2:12:57 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:17:55 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21572(00005444)
+May 9, 2013 2:04:46 PM tester_project_e3$3 run
+INFO: 
+User BTA closed software
+	*devices passed: 43
+	*devices failed: 1
+	*total devices tested: 44
+	*devices programmed: 43
+	*
+May 9, 2013 2:04:50 PM tester_project_e3 setup
+INFO: Program started
+May 9, 2013 2:05:33 PM tester_project_e3$4 run
+WARNING: Error programming EAX500, Current Programming Task Failed
+May 9, 2013 2:05:49 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21573(00005445)
+May 9, 2013 2:06:37 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:07:02 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21574(00005446)
+May 9, 2013 2:07:28 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:07:55 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21575(00005447)
+May 9, 2013 2:08:26 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:09:08 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21576(00005448)
+May 9, 2013 2:09:23 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:10:12 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:10:38 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:11:04 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21577(00005449)
+May 9, 2013 2:11:33 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:12:03 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21578(0000544A)
+May 9, 2013 2:12:18 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:12:53 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21579(0000544B)
+May 9, 2013 2:13:31 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:13:57 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21580(0000544C)
+May 9, 2013 2:14:27 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:14:52 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21581(0000544D)
+May 9, 2013 2:15:12 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:16:08 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21582(0000544E)
+May 9, 2013 2:16:30 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:16:55 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21583(0000544F)
+May 9, 2013 2:17:34 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:17:48 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21584(00005450)
+May 9, 2013 2:18:16 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:24:23 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21585(00005451)
+May 9, 2013 2:24:37 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:25:04 PM tester_project_e3$4 run
+WARNING: Error programming EAX500, Current Programming Task Failed
+May 9, 2013 2:25:22 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21586(00005452)
+May 9, 2013 2:26:04 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:26:33 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21587(00005453)
+May 9, 2013 2:27:10 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:27:38 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21588(00005454)
+May 9, 2013 2:27:55 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:28:20 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21589(00005455)
+May 9, 2013 2:28:50 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:29:15 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21590(00005456)
+May 9, 2013 2:29:39 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:30:02 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21591(00005457)
+May 9, 2013 2:30:19 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:30:43 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21592(00005458)
+May 9, 2013 2:31:21 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:31:51 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21593(00005459)
+May 9, 2013 2:32:16 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:32:40 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21594(0000545A)
+May 9, 2013 2:33:02 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:33:40 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21595(0000545B)
+May 9, 2013 2:34:04 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:36:11 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21596(0000545C)
+May 9, 2013 2:36:25 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:36:50 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21597(0000545D)
+May 9, 2013 2:37:15 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:57:34 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21598(0000545E)
+May 9, 2013 2:57:52 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:58:05 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21599(0000545F)
+May 9, 2013 2:58:32 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:58:44 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21600(00005460)
+May 9, 2013 2:58:52 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21601(00005461)
+May 9, 2013 2:59:07 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:00:55 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21602(00005462)
+May 9, 2013 3:01:13 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:01:38 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21603(00005463)
+May 9, 2013 3:02:03 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:02:41 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21604(00005464)
+May 9, 2013 3:03:37 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:04:09 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21605(00005465)
+May 9, 2013 2:48:46 PM tester_project_e3$3 run
+INFO: 
+User BTA closed software
+	*devices passed: 30
+	*devices failed: 2
+	*total devices tested: 32
+	*devices programmed: 33
+	*
+May 9, 2013 2:48:49 PM tester_project_e3 setup
+INFO: Program started
+May 9, 2013 2:50:07 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21606(00005466)
+May 9, 2013 2:52:19 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:52:51 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21607(00005467)
+May 9, 2013 2:53:26 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:53:57 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:54:24 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21608(00005468)
+May 9, 2013 2:54:50 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:55:14 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21609(00005469)
+May 9, 2013 2:55:52 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:56:53 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:57:07 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21610(0000546A)
+May 9, 2013 2:57:26 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:57:56 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21611(0000546B)
+May 9, 2013 2:58:15 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:58:44 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21612(0000546C)
+May 9, 2013 2:59:06 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 2:59:29 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21613(0000546D)
+May 9, 2013 2:59:49 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:00:14 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21614(0000546E)
+May 9, 2013 3:00:32 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:00:58 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21615(0000546F)
+May 9, 2013 3:01:18 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:01:42 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21616(00005470)
+May 9, 2013 3:02:04 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:02:30 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21617(00005471)
+May 9, 2013 3:03:02 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:07:33 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21618(00005472)
+May 9, 2013 3:08:01 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:08:24 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21619(00005473)
+May 9, 2013 3:08:42 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:09:07 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21620(00005474)
+May 9, 2013 3:10:12 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:10:40 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21621(00005475)
+May 9, 2013 3:11:04 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:11:41 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21622(00005476)
+May 9, 2013 3:12:01 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:12:23 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21623(00005477)
+May 9, 2013 3:12:52 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:13:14 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21624(00005478)
+May 9, 2013 3:13:38 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:14:08 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21625(00005479)
+May 9, 2013 3:14:32 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:14:56 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21626(0000547A)
+May 9, 2013 3:15:35 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:16:09 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21627(0000547B)
+May 9, 2013 3:16:25 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:17:10 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:17:37 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21628(0000547C)
+May 9, 2013 3:18:10 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:18:34 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21629(0000547D)
+May 9, 2013 3:18:51 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:19:17 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21630(0000547E)
+May 9, 2013 3:19:48 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:22:30 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21631(0000547F)
+May 9, 2013 3:22:50 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:23:14 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21632(00005480)
+May 9, 2013 3:23:48 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:24:15 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21633(00005481)
+May 9, 2013 3:24:35 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:24:59 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21634(00005482)
+May 9, 2013 3:25:24 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:25:48 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21635(00005483)
+May 9, 2013 3:26:10 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:26:43 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21636(00005484)
+May 9, 2013 3:27:03 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:27:28 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21637(00005485)
+May 9, 2013 3:27:56 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:28:15 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:28:36 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21638(00005486)
+May 9, 2013 3:29:00 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:29:23 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21639(00005487)
+May 9, 2013 3:29:48 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:30:12 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21640(00005488)
+May 9, 2013 3:30:50 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:31:16 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21641(00005489)
+May 9, 2013 3:31:35 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:31:55 PM tester_project_e3$4 run
+WARNING: Error programming EAX500, Current Programming Task Failed
+May 9, 2013 3:32:17 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21642(0000548A)
+May 9, 2013 3:32:38 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:33:05 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21643(0000548B)
+May 9, 2013 3:33:29 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:46:27 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21644(0000548C)
+May 9, 2013 3:46:50 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:47:51 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:32:00 PM LoginThread logout
+INFO: 
+User BTA logged off
+	*devices passed: 42
+	*devices failed: 1
+	*total devices tested: 43
+	*devices programmed: 39
+	*
+May 9, 2013 3:33:11 PM LoginThread logout
+INFO: 
+User BTA logged off
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+May 9, 2013 3:33:37 PM tester_project_e3$3 run
+INFO: 
+User BTA closed software
+	*devices passed: 0
+	*devices failed: 0
+	*total devices tested: 0
+	*devices programmed: 0
+	*
+May 9, 2013 3:33:42 PM tester_project_e3 setup
+INFO: Program started
+May 9, 2013 3:34:54 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21645(0000548D)
+May 9, 2013 3:37:02 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:37:30 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21646(0000548E)
+May 9, 2013 3:38:12 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:39:15 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21647(0000548F)
+May 9, 2013 3:40:19 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:40:41 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21648(00005490)
+May 9, 2013 3:40:59 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:41:27 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21649(00005491)
+May 9, 2013 3:41:48 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:42:13 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21650(00005492)
+May 9, 2013 3:42:38 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:43:11 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21651(00005493)
+May 9, 2013 3:44:47 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:45:09 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21652(00005494)
+May 9, 2013 3:45:27 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:45:56 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21653(00005495)
+May 9, 2013 3:46:16 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:46:58 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21654(00005496)
+May 9, 2013 3:47:14 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:49:07 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21655(00005497)
+May 9, 2013 3:49:20 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:49:49 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21656(00005498)
+May 9, 2013 3:50:06 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:50:29 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21657(00005499)
+May 9, 2013 3:51:06 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:51:58 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21658(0000549A)
+May 9, 2013 3:52:30 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:52:57 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21659(0000549B)
+May 9, 2013 3:53:28 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:53:53 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21660(0000549C)
+May 9, 2013 3:54:14 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:54:41 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21661(0000549D)
+May 9, 2013 3:55:16 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:55:41 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21662(0000549E)
+May 9, 2013 3:56:15 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 3:56:44 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21663(0000549F)
+May 9, 2013 3:57:54 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:00:44 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21664(000054A0)
+May 9, 2013 4:01:04 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:01:27 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21665(000054A1)
+May 9, 2013 4:01:46 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:02:12 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21666(000054A2)
+May 9, 2013 4:02:41 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:04:20 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:04:49 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:05:01 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21667(000054A3)
+May 9, 2013 4:05:22 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:05:46 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21668(000054A4)
+May 9, 2013 4:06:23 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:06:39 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:07:00 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21669(000054A5)
+May 9, 2013 4:07:17 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:07:39 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21670(000054A6)
+May 9, 2013 4:08:03 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:08:25 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21671(000054A7)
+May 9, 2013 4:08:43 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:09:05 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21672(000054A8)
+May 9, 2013 4:09:31 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:09:53 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21673(000054A9)
+May 9, 2013 4:10:15 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:10:36 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21674(000054AA)
+May 9, 2013 4:10:57 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:11:20 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21675(000054AB)
+May 9, 2013 4:11:38 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:12:09 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21676(000054AC)
+May 9, 2013 4:12:28 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:12:53 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21677(000054AD)
+May 9, 2013 4:13:28 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:13:54 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21678(000054AE)
+May 9, 2013 4:14:19 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:19:20 PM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 4:19:32 PM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 4:19:48 PM tester_project_e3$3 run
+INFO: 
+User BTA closed software
+	*devices passed: 34
+	*devices failed: 2
+	*total devices tested: 36
+	*devices programmed: 34
+	*
+May 9, 2013 4:19:52 PM tester_project_e3 setup
+INFO: Program started
+May 9, 2013 4:20:33 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21679(000054AF)
+May 9, 2013 4:20:47 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:21:07 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21680(000054B0)
+May 9, 2013 4:21:25 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:21:43 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21681(000054B1)
+May 9, 2013 4:22:01 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:22:21 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21682(000054B2)
+May 9, 2013 4:22:38 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:24:58 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21683(000054B3)
+May 9, 2013 4:25:01 PM tester_project_e3$4 run
+WARNING: Error programming EAX500, 
+May 9, 2013 4:25:16 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21684(000054B4)
+May 9, 2013 4:25:23 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21685(000054B5)
+May 9, 2013 4:25:43 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:26:01 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21686(000054B6)
+May 9, 2013 4:26:18 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:26:38 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21687(000054B7)
+May 9, 2013 4:26:51 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:27:09 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21688(000054B8)
+May 9, 2013 4:27:28 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:27:49 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21689(000054B9)
+May 9, 2013 4:28:21 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:28:38 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21690(000054BA)
+May 9, 2013 4:28:51 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:29:09 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21691(000054BB)
+May 9, 2013 4:29:23 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:29:44 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21692(000054BC)
+May 9, 2013 4:30:02 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:30:24 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21693(000054BD)
+May 9, 2013 4:30:42 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:31:04 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21694(000054BE)
+May 9, 2013 4:31:19 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:18:36 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21695(000054BF)
+May 9, 2013 4:18:51 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:19:12 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21696(000054C0)
+May 9, 2013 4:19:27 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:21:20 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21697(000054C1)
+May 9, 2013 4:21:33 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:21:52 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21698(000054C2)
+May 9, 2013 4:22:05 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:22:23 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21699(000054C3)
+May 9, 2013 4:22:53 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:23:14 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21700(000054C4)
+May 9, 2013 4:23:31 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:23:53 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21701(000054C5)
+May 9, 2013 4:24:11 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:24:30 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21702(000054C6)
+May 9, 2013 4:24:48 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:25:15 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21703(000054C7)
+May 9, 2013 4:25:36 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:25:57 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21704(000054C8)
+May 9, 2013 4:26:16 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:29:51 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21705(000054C9)
+May 9, 2013 4:30:09 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:30:59 PM tester_project_e3$4 run
+INFO: Programming initiated by BTA -- EAX500 Serial#:21706(000054CA)
+May 9, 2013 4:31:13 PM tester_project_e3 testProcess
+INFO: EAX-300/500 tested 	
+May 9, 2013 4:37:42 PM tester_project_e3$3 run
+INFO: 
+User BTA closed software
+	*devices passed: 25
+	*devices failed: 1
+	*total devices tested: 26
+	*devices programmed: 28
+	*
